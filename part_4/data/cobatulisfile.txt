@@ -1,0 +1,4 @@
+Halo Nama saya irfan maulana
+selamat datang di course
+intro to data science
+with python
